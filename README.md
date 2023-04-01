@@ -21,3 +21,13 @@ A simple question and answer application
 ```
   >> pip install -r requirements.txt
 ```
+
+
+4. Run the application 
+
+```
+    >> python inference.py 
+
+```
+
+5. Enter the question about blood and fire that you want the application to answer.
